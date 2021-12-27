@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @erikdkarlsson
 - 👀 I’m interested utilizing computers to augment 
 - 🌱 I’m currently learning java and nlp in python
-- 💞️ I’m looking to collaborate on nlp projects
+- 💞️ I’m looking to collaborate on nlp and ML projects
 - 📫 How to reach me discord: 
 
 <!---
