@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @erikdkarlsson
-- 👀 I’m interested utilizing computers to augment 
-- 🌱 I’m currently learning java and nlp in python
-- 💞️ I’m looking to collaborate on nlp and ML projects
-- 📫 How to reach me discord: 
+- 👀 I’m interested in automation, data, finance
+- 🌱 I’m currently learning java and machine learning in python
+- 💞️ I’m looking to collaborate on data analysis
+- 📫 How to reach me discord: erikdkarlsson#0298
 
 <!---
 erikdkarlsson/erikdkarlsson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
